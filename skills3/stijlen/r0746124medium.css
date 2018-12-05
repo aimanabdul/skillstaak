@@ -1,0 +1,9 @@
+body {
+    background-color: #f4dcca;
+    color: #000;
+}
+
+#primair,
+#luxe {
+    display: none;
+}

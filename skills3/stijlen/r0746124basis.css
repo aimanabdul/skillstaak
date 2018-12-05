@@ -15,7 +15,7 @@ p {
 }
 
 #container {
-    background-color: #fff;
+    background-color: #8B623C;
     color: #000;
 }
 
@@ -26,6 +26,12 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+#gaming,
+#luxe {
+    display: none;
+}
+
 
 footer {
     text-align: right;
