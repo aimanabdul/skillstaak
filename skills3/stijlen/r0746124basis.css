@@ -3,6 +3,15 @@
     margin: 0;
 }
 
+body {
+    font-family: 'Noto Serif', serif;
+    font-size: 14px;
+    line-height: 21px;
+    background-image: url(../afbeeldingen/basis.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
 h2,
 p {
     padding: 10px 0px;
@@ -17,9 +26,6 @@ p {
 #container {
     background-color: #8B623C;
     color: #000;
-    background-image: url(../afbeeldingen/basis.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
 }
 
 body {

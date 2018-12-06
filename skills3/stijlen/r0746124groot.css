@@ -21,3 +21,7 @@ body {
     background-repeat: no-repeat;
     background-position: center top;
 }
+
+#luxe h2 {
+    font-family: 'Merienda one', cursive;
+}
