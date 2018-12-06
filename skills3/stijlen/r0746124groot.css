@@ -1,6 +1,10 @@
 #primair,
-#luxe {
+#gaming {
     display: none;
+}
+
+#luxe {
+    display: inline;
 }
 
 /*
@@ -11,6 +15,9 @@
 #311c28
 */
 body {
-    background-color: #1a1a1a;
-    color: #fff;
+    background-color: #f4dcca;
+    color: #000;
+    background-image: url(../afbeeldingen/groot.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
 }

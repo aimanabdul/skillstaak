@@ -17,6 +17,14 @@ p {
 #container {
     background-color: #8B623C;
     color: #000;
+    background-image: url(../afbeeldingen/basis.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+body {
+    background-color: #8B623C;
+    color: #000;
 }
 
 nav a {
@@ -27,14 +35,15 @@ nav a:hover {
     text-decoration: underline;
 }
 
-#gaming,
-#luxe {
-    display: none;
-}
-
 
 footer {
     text-align: right;
     font-weight: bold;
     padding: 10px;
+}
+
+
+#gaming,
+#luxe {
+    display: none;
 }
